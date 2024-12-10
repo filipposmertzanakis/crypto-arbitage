@@ -6,8 +6,8 @@ import time  # Add this import at the top of your file
 
 # Initialize exchanges with fake balances
 balances = {
-    'Binance': 1000,  # Fake money in USD
-    'Kraken': 1000,
+    'Binance': 1500,  # Fake money in USD
+    'Kraken': 1004124210,
     'Huobi': 1000,
     'Bitfinex': 1000,
     'Coinbase Pro': 1000,
